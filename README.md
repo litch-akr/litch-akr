@@ -52,6 +52,10 @@ looking_for:
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=litch-akr&repo=innovationplatforme&bg_color=000000&title_color=ffffff&text_color=c9c9c9&icon_color=E50914&border_color=E50914"/>
 </a>
 
+<a href="https://github.com/litch-akr/Predictive-Maintenance-Project-ai4i2020-">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=litch-akr&repo=Predictive-Maintenance-Project-ai4i2020-&bg_color=000000&title_color=ffffff&text_color=c9c9c9&icon_color=E50914&border_color=E50914"/>
+</a>
+
 </div>
 
 ### 🔍 CodeReviewer
@@ -76,6 +80,18 @@ Enterprise idea management platform built with a **Spring Boot microservices arc
 -  Angular frontend
 -  MySQL database
 -  JWT authentication
+
+---
+
+### 🏭 Predictive Maintenance
+
+Machine Learning project for **predictive maintenance** using industrial sensor data to identify abnormal machine behavior and anticipate equipment failures.
+
+**Highlights**
+-  Exploratory Data Analysis (EDA)
+-  Data preprocessing & feature engineering
+-  Machine Learning classification models
+-  Model evaluation and performance comparison
 
 # 🛠️ Tech Stack
 
