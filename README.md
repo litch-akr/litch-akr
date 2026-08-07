@@ -50,11 +50,11 @@ looking_for:
 <div align="center">
 
 <a href="https://github.com/litch-akr/CodeReviewer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=litch-akr&repo=CodeReviewer&bg_color=000000&title_color=ffffff&text_color=c9c9c9&icon_color=E50914&border_color=E50914"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=litch-akr&repo=CodeReviewer&bg_color=000000&title_color=ffffff&text_color=c9c9c9&icon_color=E50914&border_color=E50914"/>
 </a>
 
 <a href="https://github.com/litch-akr/innovationplatforme">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=litch-akr&repo=innovationplatforme&bg_color=000000&title_color=ffffff&text_color=c9c9c9&icon_color=E50914&border_color=E50914"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=litch-akr&repo=innovationplatforme&bg_color=000000&title_color=ffffff&text_color=c9c9c9&icon_color=E50914&border_color=E50914"/>
 </a>
 
 </div>
