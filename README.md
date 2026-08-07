@@ -94,7 +94,7 @@ looking_for:
 
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=litch-akr&show_icons=true&count_private=true&bg_color=000000&title_color=ffffff&icon_color=E50914&text_color=ffffff&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litch-akr&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=litch-akr&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true"/>
 
 </div>
 
