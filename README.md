@@ -66,22 +66,15 @@ looking_for:
 <div align="center">
 
 ### Languages
-
 <img src="https://skillicons.dev/icons?i=python,java,cpp,go,bash"/>
 
 ### AI / Machine Learning
-
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
 
-<img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=E50914"/>
-<img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=E50914"/>
-
 ### Backend
-
 <img src="https://skillicons.dev/icons?i=fastapi,spring"/>
 
 ### Databases & DevOps
-
 <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,kafka,git,github,linux,vscode"/>
 
 </div>
