@@ -36,8 +36,6 @@ looking_for: AI/ML or Backend internship
 
 - 🔍 **CodeReviewer** — AI code review assistant: FastAPI + CodeBERT severity classifier + AST static analyzer, Dockerized CI/CD, 94% test coverage — `v1.0.0`
 - 🧩 **Innovation Platform** — microservices system with Spring Boot, Kafka, Angular
-- 🧠 **Photogrammetry Pipeline** *(in progress)* — sparse Structure-from-Motion from a phone photo burst, implemented from scratch for M2 research applications
-- 💰 **FinmartAI** *(planned)* — RAG-based financial document assistant: LangChain, ChromaDB, Groq API, FastAPI
 
 ## 🛠️ Tech Stack
 
