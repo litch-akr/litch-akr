@@ -62,7 +62,6 @@ looking_for:
 
 AI-powered code review assistant built with **FastAPI**, **CodeBERT**, and **AST-based static analysis**.
 
-**Highlights**
 -  AI-based code quality assessment
 -  Security vulnerability detection
 -  Dockerized deployment
@@ -74,7 +73,6 @@ AI-powered code review assistant built with **FastAPI**, **CodeBERT**, and **AST
 
 Enterprise idea management platform built with a **Spring Boot microservices architecture**.
 
-**Highlights**
 -  Spring Boot Microservices
 -  Kafka event streaming
 -  Angular frontend
@@ -87,7 +85,6 @@ Enterprise idea management platform built with a **Spring Boot microservices arc
 
 Machine Learning project for **predictive maintenance** using industrial sensor data to identify abnormal machine behavior and anticipate equipment failures.
 
-**Highlights**
 -  Exploratory Data Analysis (EDA)
 -  Data preprocessing & feature engineering
 -  Machine Learning classification models
