@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:E50914,100:000000&text=Akram%20%7C%20litch-akr&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Machine%20Learning%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Backend%20Engineering&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=E50914&center=true&vCenter=true&width=800&lines=Building+AI+systems+that+ship.;Machine+Learning+%7C+Computer+Vision+%7C+Backend.;Currently+building+a+Structure-from-Motion+pipeline.;Powered+by+ROCm+on+AMD."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=E50914&center=true&vCenter=true&width=800&lines=Building+AI+systems+that+ship.;AI+%7C+Data Scientist."/>
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=litch-akr&label=Profile%20Views&style=for-the-badge&color=E50914"/>
@@ -23,22 +23,15 @@ education:
   FST Mohammedia — Hassan II University
 
 interests:
+  - AI 
   - Machine Learning
-  - Computer Vision
-  - Backend Engineering
+  - Data Scientist
 
 currently_learning:
   - Structure from Motion
   - 3D Reconstruction
   - Deep Learning
   - MLOps
-
-currently_building:
-  DIY Photogrammetry Pipeline
-
-hardware:
-  AMD Radeon RX 7700S
-  ROCm
 
 looking_for:
   AI / Machine Learning Internship
