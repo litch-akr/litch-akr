@@ -42,11 +42,6 @@ looking_for:
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🔍 **CodeReviewer** | AI-powered code review assistant using FastAPI, CodeBERT, AST analysis, Docker and GitHub Actions. |
-| 🧩 **Innovation Platform** | Enterprise microservices platform built with Spring Boot, Kafka, Angular and MySQL. |
-
 <div align="center">
 
 <a href="https://github.com/litch-akr/CodeReviewer">
@@ -59,7 +54,28 @@ looking_for:
 
 </div>
 
+### 🔍 CodeReviewer
+
+AI-powered code review assistant built with **FastAPI**, **CodeBERT**, and **AST-based static analysis**.
+
+**Highlights**
+-  AI-based code quality assessment
+-  Security vulnerability detection
+-  Dockerized deployment
+-  GitHub Actions CI/CD
+
 ---
+
+### 🧩 Innovation Platform
+
+Enterprise idea management platform built with a **Spring Boot microservices architecture**.
+
+**Highlights**
+-  Spring Boot Microservices
+-  Kafka event streaming
+-  Angular frontend
+-  MySQL database
+-  JWT authentication
 
 # 🛠️ Tech Stack
 
