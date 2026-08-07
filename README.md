@@ -146,22 +146,16 @@ looking_for:
 
 <!-- Replace placeholders below when ready -->
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/akramallak">
 <img src="https://img.shields.io/badge/LinkedIn-E50914?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:allakakram7@gmail.com">
 <img src="https://img.shields.io/badge/Email-E50914?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
-
-<div align="center">
-
-### ⚡ *"Turning research ideas into production-ready AI."*
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:000000,50:E50914,100:000000"/>
