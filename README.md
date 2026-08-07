@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:E50914,100:000000&text=Akram%20%7C%20litch-akr&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Machine%20Learning%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Backend%20Engineering&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:E50914,100:000000&text=Akram%20%7C%20litch-akr&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Machine%20Learning%20%E2%80%A2%20AI%20%E2%80%A2%20Data%20Science&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=E50914&center=true&vCenter=true&width=800&lines=Building+AI+systems+that+ship.;AI+%7C+Data Scientist."/>
 
