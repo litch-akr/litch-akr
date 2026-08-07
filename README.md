@@ -136,11 +136,11 @@ srcset="https://raw.githubusercontent.com/litch-akr/litch-akr/output/github-cont
 <img src="https://img.shields.io/badge/GitHub-E50914?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/akramallak">
 <img src="https://img.shields.io/badge/LinkedIn-E50914?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:allakakram7@gmail.com">
 <img src="https://img.shields.io/badge/Email-E50914?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
