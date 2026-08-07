@@ -23,9 +23,10 @@ education:
   FST Mohammedia — Hassan II University
 
 interests:
-  - AI 
+  - Artificial Intelligence
   - Machine Learning
-  - Data Scientist
+  - Computer Vision
+  - Data Science
 
 currently_learning:
   - Structure from Motion
@@ -34,12 +35,17 @@ currently_learning:
   - MLOps
 
 looking_for:
-  AI / Machine Learning Internship
+  - AI / Machine Learning Internship
 ```
 
 ---
 
 # 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🔍 **CodeReviewer** | AI-powered code review assistant using FastAPI, CodeBERT, AST analysis, Docker and GitHub Actions. |
+| 🧩 **Innovation Platform** | Enterprise microservices platform built with Spring Boot, Kafka, Angular and MySQL. |
 
 <div align="center">
 
@@ -52,12 +58,6 @@ looking_for:
 </a>
 
 </div>
-
-| Project | Description |
-|----------|-------------|
-| 🔍 **CodeReviewer** | AI-powered code review assistant using FastAPI, CodeBERT, AST analysis, Docker and GitHub Actions. |
-| 🧩 **Innovation Platform** | Enterprise microservices platform built with Spring Boot, Kafka, Angular and MySQL. |
-| 🧠 **Photogrammetry Pipeline** *(In Progress)* | Sparse Structure-from-Motion pipeline built completely from scratch. |
 
 ---
 
@@ -78,7 +78,7 @@ looking_for:
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs"/>
+<img src="https://skillicons.dev/icons?i=fastapi,spring"/>
 
 ### Databases & DevOps
 
@@ -102,7 +102,7 @@ looking_for:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=litch-akr&theme=dark&background=000000&ring=E50914&fire=E50914&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=999999&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=litch-akr&theme=dark&background=000000&ring=E50914&fire=E50914&currStreakLabel=ffffff&hide_border=true"/>
 
 </div>
 
@@ -124,11 +124,10 @@ looking_for:
 
 <picture>
 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/litch-akr/litch-akr/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/litch-akr/litch-akr/output/github-contribution-grid-snake-dark.svg"/>
 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/litch-akr/litch-akr/output/github-contribution-grid-snake.svg"/>
-
-<img alt="Contribution Snake" src="https://raw.githubusercontent.com/litch-akr/litch-akr/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/litch-akr/litch-akr/output/github-contribution-grid-snake-dark.svg"/>
 
 </picture>
 
@@ -144,18 +143,12 @@ looking_for:
 <img src="https://img.shields.io/badge/GitHub-E50914?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- Replace placeholders below when ready -->
-
-<a href="https://linkedin.com/in/akramallak">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-E50914?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:allakakram7@gmail.com">
+<a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Email-E50914?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:000000,50:E50914,100:000000"/>
