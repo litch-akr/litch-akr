@@ -1,107 +1,174 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0000,100:000000&height=180&section=header&text=Akram%20%7C%20litch-akr&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Data%20Science%20%26%20AI%20Engineering%20Student&descAlignY=55&descSize=18" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:E50914,100:000000&text=Akram%20%7C%20litch-akr&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Machine%20Learning%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Backend%20Engineering&descAlignY=58"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=E50914&background=00000000&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Building+ML+%2F+Data+pipelines+that+actually+ship;FST+Mohammedia+%F0%9F%87%B2%F0%9F%87%A6+%E2%80%94+Data+Science+%26+CS;Currently%3A+Computer+Vision+%2F+SfM+research+project" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=E50914&center=true&vCenter=true&width=800&lines=Building+AI+systems+that+ship.;Machine+Learning+%7C+Computer+Vision+%7C+Backend.;Currently+building+a+Structure-from-Motion+pipeline.;Powered+by+ROCm+on+AMD."/>
 
-<img src="https://komarev.com/ghpvc/?username=litch-akr&label=Profile%20views&color=000000&style=flat-square"/>
+<p>
+<img src="https://komarev.com/ghpvc/?username=litch-akr&label=Profile%20Views&style=for-the-badge&color=E50914"/>
+<img src="https://img.shields.io/github/followers/litch-akr?style=for-the-badge&color=E50914&labelColor=000000"/>
+</p>
 
 </div>
 
-<br>
+---
 
-## 🧬 About me
+# 🧬 About Me
 
 ```yaml
 name: Akram
-role: 2nd-year Data Science & Computer Science student @ FST Mohammedia
-focus: Machine Learning · Computer Vision · Backend Engineering
-looking_for: AI/ML or Backend internship
-current_build: DIY Photogrammetry pipeline — SfM from scratch (feature matching, RANSAC, bundle adjustment)
-fun_fact: trains models locally on an AMD GPU via ROCm instead of just renting cloud compute
+
+education:
+  Final-year Data Science & Computer Science Engineering Student
+  FST Mohammedia — Hassan II University
+
+interests:
+  - Machine Learning
+  - Computer Vision
+  - Backend Engineering
+
+currently_learning:
+  - Structure from Motion
+  - 3D Reconstruction
+  - Deep Learning
+  - MLOps
+
+currently_building:
+  DIY Photogrammetry Pipeline
+
+hardware:
+  AMD Radeon RX 7700S
+  ROCm
+
+looking_for:
+  AI / Machine Learning Internship
 ```
 
-## 🚀 Featured Projects
+---
+
+# 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/litch-akr/CodeReviewer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=litch-akr&repo=CodeReviewer&bg_color=000000&title_color=ffffff&icon_color=e50914&text_color=c9c9c9&border_color=e50914" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=litch-akr&repo=CodeReviewer&bg_color=000000&title_color=ffffff&text_color=c9c9c9&icon_color=E50914&border_color=E50914"/>
 </a>
+
 <a href="https://github.com/litch-akr/innovationplatforme">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=litch-akr&repo=innovationplatforme&bg_color=000000&title_color=ffffff&icon_color=e50914&text_color=c9c9c9&border_color=e50914" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=litch-akr&repo=innovationplatforme&bg_color=000000&title_color=ffffff&text_color=c9c9c9&icon_color=E50914&border_color=E50914"/>
 </a>
 
 </div>
 
-- 🔍 **CodeReviewer** — AI code review assistant: FastAPI + CodeBERT severity classifier + AST static analyzer, Dockerized CI/CD, 94% test coverage — `v1.0.0`
-- 🧩 **Innovation Platform** — microservices system with Spring Boot, Kafka, Angular
-- 🧠 **Photogrammetry Pipeline** *(in progress)* — sparse Structure-from-Motion from a phone photo burst, implemented from scratch for M2 research applications
-- 💰 **FinmartAI** *(planned)* — RAG-based financial document assistant: LangChain, ChromaDB, Groq API, FastAPI
+| Project | Description |
+|----------|-------------|
+| 🔍 **CodeReviewer** | AI-powered code review assistant using FastAPI, CodeBERT, AST analysis, Docker and GitHub Actions. |
+| 🧩 **Innovation Platform** | Enterprise microservices platform built with Spring Boot, Kafka, Angular and MySQL. |
+| 🧠 **Photogrammetry Pipeline** *(In Progress)* | Sparse Structure-from-Motion pipeline built completely from scratch. |
 
-## 🛠️ Tech Stack
+---
+
+# 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
-<br>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=ffffff"/>
+### Languages
 
-**Machine Learning / Data**
-<br>
-<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=E50914"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,go,bash"/>
+
+### AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
+
 <img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=E50914"/>
-<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=E50914"/>
 <img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=E50914"/>
 
-**Backend & Infra**
-<br>
-<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ffffff"/>
+### Backend
+
+<img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs"/>
+
+### Databases & DevOps
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,kafka,git,github,linux,vscode"/>
 
 </div>
 
-## 📊 GitHub Stats
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=litch-akr&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=e50914&text_color=c9c9c9&count_private=true"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=litch-akr&hide_border=true&background=000000&stroke=e50914&ring=e50914&fire=e50914&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8a8a8a"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=litch-akr&show_icons=true&count_private=true&bg_color=000000&title_color=ffffff&icon_color=E50914&text_color=ffffff&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=litch-akr&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litch-akr&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true"/>
 
 </div>
 
-## 🩸 Contribution Graph
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=litch-akr&theme=dark&background=000000&ring=E50914&fire=E50914&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=999999&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=litch-akr&bg_color=000000&color=ffffff&line=E50914&point=E50914&hide_border=true"/>
+
+</div>
+
+---
+
+# 🩸 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/litch-akr/litch-akr/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/litch-akr/litch-akr/output/github-contribution-grid-snake.svg" />
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/litch-akr/litch-akr/output/github-contribution-grid-snake.svg" />
-</picture>
 
-*(white snake, blood-red trail — animates automatically once the workflow below runs, see setup steps)*
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/litch-akr/litch-akr/output/github-contribution-grid-snake-dark.svg"/>
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/litch-akr/litch-akr/output/github-contribution-grid-snake.svg"/>
+
+<img alt="Contribution Snake" src="https://raw.githubusercontent.com/litch-akr/litch-akr/output/github-contribution-grid-snake-dark.svg"/>
+
+</picture>
 
 </div>
 
-## 📫 Connect
+---
+
+# 📫 Connect
 
 <div align="center">
 
-<a href="https://github.com/litch-akr"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
-<!-- add LinkedIn / email badges here the same way once you want to share them -->
+<a href="https://github.com/litch-akr">
+<img src="https://img.shields.io/badge/GitHub-E50914?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<!-- Replace placeholders below when ready -->
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-E50914?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-E50914?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0000,100:000000&height=100&section=footer" width="100%"/>
+---
+
+<div align="center">
+
+### ⚡ *"Turning research ideas into production-ready AI."*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:000000,50:E50914,100:000000"/>
