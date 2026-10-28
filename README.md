@@ -1,176 +1,237 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:E50914,100:000000&text=Akram%20%7C%20litch-akr&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Machine%20Learning%20%E2%80%A2%20AI%20%E2%80%A2%20Data%20Science&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,50:303030,100:000000&text=Akram%20Allak&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20AI&descAlignY=62&descSize=16"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=E50914&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Computer+Vision+Enthusiast;Data+Science+Student" alt="Typing SVG" />
+<a href="https://github.com/litch-akr"><img src="https://img.shields.io/badge/GitHub-litch--akr-white?style=flat-square&logo=github&logoColor=black"/></a>
+<a href="https://linkedin.com/in/akramallak"><img src="https://img.shields.io/badge/LinkedIn-Connect-white?style=flat-square&logo=linkedin&logoColor=black"/></a>
+<a href="mailto:allakakram7@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-white?style=flat-square&logo=gmail&logoColor=black"/></a>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=litch-akr&label=Profile%20Views&style=for-the-badge&color=E50914"/>
-<img src="https://img.shields.io/github/followers/litch-akr?style=for-the-badge&color=E50914&labelColor=000000"/>
-</p>
+<br/>
+
+*Building intelligent systems, one experiment at a time.*
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Building+intelligent+systems;Exploring+Computer+Vision+%26+Deep+Learning;Turning+data+into+meaningful+solutions" alt="Typing introduction" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=litch-akr&label=PROFILE+VIEWS&color=333333&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/litch-akr?label=FOLLOWERS&style=flat-square&color=333333&labelColor=000000" alt="GitHub followers"/>
 
 </div>
 
 ---
 
-# 🧬 About Me
+## ◈ About Me
+
+I'm an engineering student in **Data Science and Computer Science** at FST Mohammedia, Hassan II University, Morocco, interested in building practical AI systems and understanding the principles behind them.
+
+- Focused on Machine Learning, Deep Learning, and Computer Vision.
+- Exploring model training, experimentation, and evaluation.
+- Interested in AI engineering, research-oriented projects, and software development.
+- Continuously building projects that combine theory with practical implementation.
 
 ```yaml
-name: Akram
-
-education:
-  Final-year Data Science & Computer Science Engineering Student
-  FST Mohammedia — Hassan II University
+name: Akram Allak
+education: Data Science & Computer Science Engineering
+university: FST Mohammedia — Hassan II University
 
 interests:
-  - Artificial Intelligence
-  - Machine Learning
+  - Machine Learning & Deep Learning
   - Computer Vision
-  - Data Science
+  - Artificial Intelligence
+  - Retrieval-Augmented Generation
+  - AI Engineering & MLOps
 
-currently_learning:
-  - Structure from Motion
-  - 3D Reconstruction
-  - Deep Learning
-  - MLOps
+current_projects:
+  - Road Damage Intelligence
+  - CIFAR-10 Image Classification
+  - Research Intelligence RAG
 
-looking_for:
-  - AI / Machine Learning Internship
+seeking: AI / Machine Learning Internship
 ```
 
 ---
 
-# 🚀 Featured Projects
+## ◈ Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/litch-akr/CodeReviewer">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=litch-akr&repo=CodeReviewer&bg_color=000000&title_color=ffffff&text_color=c9c9c9&icon_color=E50914&border_color=E50914"/>
-</a>
+<a href="https://github.com/litch-akr/road-damage-intelligence"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=litch-akr&repo=road-damage-intelligence&theme=dark&bg_color=000000&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff&border_color=444444"/></a>
 
-<a href="https://github.com/litch-akr/innovationplatforme">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=litch-akr&repo=innovationplatforme&bg_color=000000&title_color=ffffff&text_color=c9c9c9&icon_color=E50914&border_color=E50914"/>
-</a>
+<a href="https://github.com/litch-akr/cv-classifier"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=litch-akr&repo=cv-classifier&theme=dark&bg_color=000000&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff&border_color=444444"/></a>
 
-<a href="https://github.com/litch-akr/Predictive-Maintenance-Project-ai4i2020-">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=litch-akr&repo=Predictive-Maintenance-Project-ai4i2020-&bg_color=000000&title_color=ffffff&text_color=c9c9c9&icon_color=E50914&border_color=E50914"/>
-</a>
+<a href="https://github.com/litch-akr/CodeReviewer"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=litch-akr&repo=CodeReviewer&theme=dark&bg_color=000000&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff&border_color=444444"/></a>
+
+<a href="https://github.com/litch-akr/innovationplatforme"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=litch-akr&repo=innovationplatforme&theme=dark&bg_color=000000&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff&border_color=444444"/></a>
 
 </div>
 
-### 🔍 CodeReviewer
+### 01. Road Damage Intelligence
 
-AI-powered code review assistant built with **FastAPI**, **CodeBERT**, and **AST-based static analysis**.
+`COMPUTER VISION` `YOLO11n` `RDD2020`
 
--  AI-based code quality assessment
--  Security vulnerability detection
--  Dockerized deployment
--  GitHub Actions CI/CD
+An experimental road damage detection pipeline using the RDD2020 dataset.
+
+- Converted Pascal VOC annotations into YOLO format.
+- Established a YOLO11n object detection baseline.
+- Worked on dataset preparation, training, and evaluation.
+- Focused on reproducibility and a structured computer vision workflow.
+
+[View repository →](https://github.com/litch-akr/road-damage-intelligence)
+
+### 02. CIFAR-10 Image Classification
+
+`DEEP LEARNING` `CNN` `ResNet` `PyTorch`
+
+An image classification project exploring convolutional neural networks and residual architectures.
+
+- Implemented a CNN baseline.
+- Explored ResNet-based classification.
+- Conducted controlled experiments.
+- Compared model performance through evaluation.
+
+[View repository →](https://github.com/litch-akr/cv-classifier)
+
+### 03. CodeReviewer
+
+`AI` `CodeBERT` `AST` `FastAPI` `Docker`
+
+An AI-powered code review assistant combining semantic code analysis with static security checks.
+
+- Used CodeBERT for semantic classification.
+- Implemented Python AST checks for SQL injection risks, hardcoded secrets, and security anti-patterns.
+- Built a FastAPI REST API with input validation and automatic documentation.
+- Added automated tests, Docker containerization, and GitHub Actions CI/CD.
+
+[View repository →](https://github.com/litch-akr/CodeReviewer)
+
+### 04. Innovation Platform
+
+`JAVA` `SPRING BOOT` `KAFKA` `ANGULAR`
+
+A collaborative idea management platform built using a microservices architecture.
+
+- Developed backend services with Spring Boot.
+- Integrated Kafka for event-driven communication.
+- Implemented service discovery with Eureka and an API gateway.
+- Built an Angular frontend with MySQL for persistence.
+
+[View repository →](https://github.com/litch-akr/innovationplatforme)
+
+### 05. Predictive Maintenance
+
+`MACHINE LEARNING` `PYTHON` `DATA ANALYSIS`
+
+A machine learning project using the AI4I2020 predictive maintenance dataset to explore data-driven equipment failure prediction.
 
 ---
 
-### 🧩 Innovation Platform
+## ◈ Currently Exploring
 
-Enterprise idea management platform built with a **Spring Boot microservices architecture**.
+### Research Intelligence RAG
 
--  Spring Boot Microservices
--  Kafka event streaming
--  Angular frontend
--  MySQL database
--  JWT authentication
+`RAG` `LLMs` `SEMANTIC RETRIEVAL`
+
+An ongoing project exploring how to build a research assistant that retrieves relevant information from documents to support context-grounded question answering.
+
+Areas of exploration:
+
+- Document ingestion and preprocessing.
+- Text chunking and embeddings.
+- Semantic search and retrieval.
+- Context-grounded answers and source attribution.
+- Retrieval evaluation.
+
+<sub>Status: In development. Features will be documented as they are implemented.</sub>
 
 ---
 
-### 🏭 Predictive Maintenance
-
-Machine Learning project for **predictive maintenance** using industrial sensor data to identify abnormal machine behavior and anticipate equipment failures.
-
--  Exploratory Data Analysis (EDA)
--  Data preprocessing & feature engineering
--  Machine Learning classification models
--  Model evaluation and performance comparison
-
-# 🛠️ Tech Stack
+## ◈ Technical Stack
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,java,cpp,go,bash"/>
+**Languages**
 
-### AI / Machine Learning
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,bash&theme=dark"/>
 
-### Backend
-<img src="https://skillicons.dev/icons?i=fastapi,spring"/>
+**Machine Learning & Computer Vision**
 
-### Databases & DevOps
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,kafka,git,github,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
+
+**Backend & APIs**
+
+<img src="https://skillicons.dev/icons?i=fastapi,spring&theme=dark"/>
+
+**Databases, Infrastructure & Tools**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,kafka,git,github,linux&theme=dark"/>
+
+</div>
+
+| Category | Technologies |
+|---|---|
+| Languages | Python, Java, C, SQL |
+| AI / ML | PyTorch, scikit-learn, YOLO, OpenCV, Hugging Face Transformers |
+| Data | Pandas, NumPy, SQL |
+| Backend | FastAPI, Spring Boot, REST APIs, Pydantic |
+| DevOps | Docker, GitHub Actions, CI/CD, pytest, Git |
+| Architecture | Kafka, Spring Cloud, Eureka, microservices, Angular |
+
+---
+
+## ◈ GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=litch-akr&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff&ring_color=ffffff"/>
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=litch-akr&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b3b3b3"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=litch-akr&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=b3b3b3&currStreakNum=ffffff&sideNums=ffffff&dates=888888&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Statistics
+## ◈ Contribution Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=litch-akr&show_icons=true&count_private=true&bg_color=000000&title_color=ffffff&icon_color=E50914&text_color=ffffff&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=litch-akr&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=litch-akr&theme=dark&background=000000&ring=E50914&fire=E50914&currStreakLabel=ffffff&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=litch-akr&bg_color=000000&color=ffffff&line=aaaaaa&point=ffffff&area=true&area_color=333333&hide_border=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=litch-akr&bg_color=000000&color=ffffff&line=E50914&point=E50914&hide_border=true"/>
-
-</div>
-
----
-
-# 🩸 Contribution Snake
+## ◈ Contribution Snake
 
 <div align="center">
 
 <picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/litch-akr/litch-akr/output/github-contribution-grid-snake-dark.svg"/>
-
-<img src="https://raw.githubusercontent.com/litch-akr/litch-akr/output/github-contribution-grid-snake-dark.svg"/>
-
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/litch-akr/litch-akr/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/litch-akr/litch-akr/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
 
 ---
 
-# 📫 Connect
+## ◈ Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/litch-akr">
-<img src="https://img.shields.io/badge/GitHub-E50914?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+Interested in **AI engineering, machine learning, computer vision, and data-driven projects**.
 
-<a href="https://linkedin.com/in/akramallak">
-<img src="https://img.shields.io/badge/LinkedIn-E50914?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://github.com/litch-akr"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000"/></a>
+<a href="https://linkedin.com/in/akramallak"><img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
+<a href="mailto:allakakram7@gmail.com"><img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
 
-<a href="mailto:allakakram7@gmail.com">
-<img src="https://img.shields.io/badge/Email-E50914?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br/><br/>
+
+*Machine Learning · Computer Vision · Artificial Intelligence · Building. Experimenting. Improving.*
 
 </div>
