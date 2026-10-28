@@ -56,18 +56,6 @@ seeking: AI / Machine Learning Internship
 
 ## ◈ Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/litch-akr/road-damage-intelligence"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=litch-akr&repo=road-damage-intelligence&theme=dark&bg_color=000000&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff&border_color=444444"/></a>
-
-<a href="https://github.com/litch-akr/cv-classifier"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=litch-akr&repo=cv-classifier&theme=dark&bg_color=000000&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff&border_color=444444"/></a>
-
-<a href="https://github.com/litch-akr/CodeReviewer"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=litch-akr&repo=CodeReviewer&theme=dark&bg_color=000000&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff&border_color=444444"/></a>
-
-<a href="https://github.com/litch-akr/innovationplatforme"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=litch-akr&repo=innovationplatforme&theme=dark&bg_color=000000&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff&border_color=444444"/></a>
-
-</div>
-
 ### 01. Road Damage Intelligence
 
 `COMPUTER VISION` `YOLO11n` `RDD2020`
@@ -185,23 +173,13 @@ Areas of exploration:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=litch-akr&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff&ring_color=ffffff"/>
+<img src="https://raw.githubusercontent.com/litch-akr/litch-akr/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details"/>
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=litch-akr&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b3b3b3"/>
+<img height="200" src="https://raw.githubusercontent.com/litch-akr/litch-akr/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats"/>
+<img height="200" src="https://raw.githubusercontent.com/litch-akr/litch-akr/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most committed languages"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=litch-akr&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=b3b3b3&currStreakNum=ffffff&sideNums=ffffff&dates=888888&hide_border=true"/>
-
-</div>
-
----
-
-## ◈ Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=litch-akr&bg_color=000000&color=ffffff&line=aaaaaa&point=ffffff&area=true&area_color=333333&hide_border=true&custom_title=Contribution%20Activity"/>
+<img height="200" src="https://raw.githubusercontent.com/litch-akr/litch-akr/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language"/>
+<img height="200" src="https://raw.githubusercontent.com/litch-akr/litch-akr/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time"/>
 
 </div>
 
@@ -213,7 +191,7 @@ Areas of exploration:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/litch-akr/litch-akr/output/snake-dark.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/litch-akr/litch-akr/output/snake-light.svg"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/litch-akr/litch-akr/output/snake-light.svg"/>
 </picture>
 
 </div>
