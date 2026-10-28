@@ -2,8 +2,8 @@ name: GitHub-Profile-Summary-Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # once a day at 00:00 UTC
-  workflow_dispatch:       # lets you run it manually from the Actions tab
+    - cron: "0 0 * * *"  
+  workflow_dispatch: 
 
 permissions:
   contents: write
