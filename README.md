@@ -142,7 +142,7 @@ Areas of exploration:
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,bash&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,bash&theme=dark"/>
 
 **Machine Learning & Computer Vision**
 
